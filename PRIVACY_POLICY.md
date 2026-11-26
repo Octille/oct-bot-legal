@@ -61,4 +61,4 @@ This Policy may be updated as the Bot changes. The revised version will be poste
 
 
 ## 10. Contact
-For privacy questions or data requests, contact the Bot operator through the support/contact method listed on the Bot's Discord support server or profile. **Replace this section with a monitored contact email or support URL before publishing.**
+For privacy questions or data requests, contact the Bot operator through discord: ._.oct
