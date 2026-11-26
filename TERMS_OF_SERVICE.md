@@ -57,4 +57,4 @@ We may update these Terms. Updates will be posted here with a revised effective 
 
 
 ## 12. Contact
-For questions about these Terms, contact the Bot operator through the support/contact method listed on the Bot's Discord support server or profile. **Replace this section with a monitored contact email or support URL before publishing.**
+For questions about these Terms, contact the Bot operator through discord: ._.oct
